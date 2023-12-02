@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+*{
+    /* margin: 0;
+    padding: 0; */
+}
+
+.heading {
+    text-align: center;
+    background-color: aqua;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
